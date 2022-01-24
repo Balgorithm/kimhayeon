@@ -5,5 +5,4 @@ cnt = 0
 for i in range(N+1):
     if lst.count(i+1) >= i+1 :
         cnt += lst.count(i+1)//(i+1)
-    
 print(cnt);
