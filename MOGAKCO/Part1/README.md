@@ -1,0 +1,12 @@
+# 모각코 준비운동 Part1. 튼튼한 기본기
+- [약수 구하기](https://www.acmicpc.net/problem/2501) (🥉 브론즈 3티어)
+- [이진수](https://www.acmicpc.net/problem/3460) (🥉 브론즈 3티어)
+- [최소, 최대](https://www.acmicpc.net/problem/10818) (🥉 브론즈 3티어)
+- [지능형 기차 2](https://www.acmicpc.net/problem/2460) (🥉 브론즈 3티어)
+- [피보나치 수 5](https://www.acmicpc.net/problem/10870) (🥉 브론즈 2티어)
+- [일곱 난쟁이](https://www.acmicpc.net/problem/2309) (🥉 브론즈 2티어)
+- [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (🥈실버 5티어)
+- [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어)
+- [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어)
+- [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어)
+- [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어)
